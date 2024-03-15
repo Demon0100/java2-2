@@ -1,6 +1,6 @@
 # 주석
 job.md
-job/            *.* , test.* , *.exe
+job/
 .gitignore
 
 # Compiled class file
