@@ -62,6 +62,12 @@ private, protected, public, 디폴트(접근지정자 생략)
     업캐스팅된 것을 다시 원래대로 되돌리는 것
     반드시 명시적 타입 변환 지정
 
+### instanceof 연산자
+#### instanceof 연산자
+    레퍼런스가 가리키는 객체의 타입 식별
+    객체레퍼런스 instanceof 클래스타입
+
+
 ## 4월 5일
 ### 2차원 배열
 * 2차원 배열 선언 -> int intArray[ ][ ]; or int[ ][ ] intArray;
